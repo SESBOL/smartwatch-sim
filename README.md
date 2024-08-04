@@ -1,11 +1,11 @@
 # Smartwatch Simulator
+Programa feito em Python para simular as propriedades de um Smartwatch e enviar suas informações por um tráfego de rede. </br>
 
 # Compilando o Projeto
 1. Instale o Python (https://www.python.org/downloads/) </br>
 2. Instale as seguintes bibliotecas através do comando no terminal: **pip install flask-socketio requests pillow** </br>
 
 # Executando o Projeto
-Programa feito em Python para simular as propriedades de um Smartwatch e enviar suas informações por um tráfego de rede. </br>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/c43dbbe5-96f6-4c9f-bed8-95a4bcc4a4e4"/> </br>
 Insira um valor de IMEI para o dispositivo smartwatch simulado e selecione o formato gráfico do smartwatch.
