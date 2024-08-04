@@ -2,7 +2,7 @@
 
 # Compilando o Projeto
 1. Instale o Python (https://www.python.org/downloads/) </br>
-2. Instale as seguintes bibliotecas através do comando no terminal: pip install flask-socketio requests pillow </br>
+2. Instale as seguintes bibliotecas através do comando no terminal: **pip install flask-socketio requests pillow** </br>
 
 # Executando o Projeto
 Programa feito em Python para simular as propriedades de um Smartwatch e enviar suas informações por um tráfego de rede. </br>
